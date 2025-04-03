@@ -17,3 +17,10 @@ MedNotify is a medication tracking application with a **Flutter-based frontend**
 - Ensure you have **Flutter SDK** installed for the frontend.  
 - Install **Node.js and npm** for the backend.  
 - Configure necessary environment variables before running the application.  
+
+## Author
+- Nadiella Fitantriani Putri 
+- Aulia Faradis Ishmah 
+- Alfrando Halleluja Leonardo Holle 
+- Imelia Dhevita Sari 
+- Rafelisha Ananfadya 
